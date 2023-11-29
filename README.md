@@ -2,8 +2,10 @@
 QA Engineer with more than 5 years of commercial experience in functional manual and partially auto-testing for financial platforms.
 
 <p align='center'>
+<a href="https://github-readme-stats.vercel.app/api?username=SergeiKorol&show_icons=true&count_private=true"><img height=150
+src="https://github-readme-stats.vercel.app/api?username=SergeiKorol&show_icons=true&count_private=true"/></a>
    
-<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKorol&layout=compact"/></a>
+<a href="https://github.com/SergeiKorol/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKorol&layout=compact"/></a>
 </p>
 
 <p align='center'>

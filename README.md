@@ -7,10 +7,10 @@ QA Engineer with more than 5 years of commercial experience in functional manual
 </p>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/insergei-korolev-187842187/">
+   <a href="https://www.linkedin.com/in/sergei-korolev-187842187/">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
-   <a href="https://t.me/joinchat/@CK44kos">
+   <a href="https://t.me/CK44kos">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>

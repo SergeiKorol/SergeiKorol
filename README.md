@@ -18,7 +18,7 @@ QA Engineer with more than 5 years of commercial experience in functional manual
    📫 How to reach me: <a href='mailto:SergeiKorolevSK44@gmail.com'>SergeiKorolevSK44@gmail.com</a>
 </p>
 
-# :bookmark_tabs: Навыки и технологии
+# Experience with
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="jira" alt="jira" width="100" height="100"/>&nbsp;
 <img src="https://img.shields.io/badge/qase%20io%20-8A2BE2" title="qase.io" alt="qase.io" width="100" height="100"/>&nbsp;

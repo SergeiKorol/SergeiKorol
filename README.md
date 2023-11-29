@@ -1,7 +1,21 @@
-### Hi there 👋
+# Hi, I'm Sergei 👋
+QA Engineer with more than 5 years of commercial experience in functional manual and partially auto-testing for financial platforms.
 
-<!--
-**SergeiKorol/SergeiKorol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   
+<a href="https://github.com/romankh3/github-readme-stats"><img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeiKorol&layout=compact"/></a>
+</p>
+
+<p align='center'>
+   <a href="https://www.linkedin.com/insergei-korolev-187842187/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+   <a href="https://t.me/joinchat/@CK44kos">
+       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:SergeiKorolevSK44@gmail.com'>SergeiKorolevSK44@gmail.com</a>
+</p>
 
 Here are some ideas to get you started:
 
